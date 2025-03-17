@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Gyanprakash136
 - 👀 I’m interested in artificial intelligence, machine learning and robotics 
-- 🌱 I’m currently learning Python and soon to start DSA
-- 💞️ I’m looking to collaborate for python programming  and soon on machine learning 
-- 📫 How to reach me: through my insta @unknown65239
+- 🌱 I’m currently learning machine learning and DSA.   
+- 💞️ I’m looking to collaborate for python programming  and machine learning.
+- 📫 How to reach me:  https://linktr.ee/gyanprakash09
 - 😄 Pronouns: your friend 
-- ⚡ Fun fact: I can reach to ⭐ ⭐ ⭐ ⭐ ⭐ ⭐  . though I am a child
+- ⚡ Fun fact: I am a good guy
 
 <!---
 Gyanprakash136/Gyanprakash136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
