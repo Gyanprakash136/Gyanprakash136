@@ -5,6 +5,7 @@
 - 📫 How to reach me:  https://linktr.ee/gyanprakash09
 - 😄 Pronouns: your friend 
 - ⚡ Fun fact: I am a good guy
+- 落ち着いてください
 
 <!---
 Gyanprakash136/Gyanprakash136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
