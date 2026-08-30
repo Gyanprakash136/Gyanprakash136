@@ -1,22 +1,22 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TRANSMISSION INITIATED ▸ GYAN PRAKASH ▸ AI & SYSTEMS ARCHITECT  -->
+<!-- GYAN PRAKASH ▸ AI/ML & BACKEND SYSTEMS ENGINEER                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=GYAN%20PRAKASH&fontAlign=50&fontAlignY=48&color=gradient&customColorList=0,2,2,5,30&desc=%E2%88%86%20AUTONOMOUS%20AGENTS%20%E2%80%A2%20RUNTIME%20SECURITY%20%E2%80%A2%20DISTRIBUTED%20SYSTEMS%20%E2%88%86&descAlignY=72&animation=fadeIn&stroke=00d4ff&strokeWidth=1.5&fontColor=e0f7ff&descColor=7ec8e3&fontSize=44&descSize=14" width="100%" alt="Gyan Prakash — AI Systems Architect & Backend Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=GYAN%20PRAKASH&fontAlign=50&fontAlignY=48&color=gradient&customColorList=0,2,2,5,30&desc=%E2%88%86%20AI%20AGENTS%20%E2%80%A2%20BACKEND%20SYSTEMS%20%E2%80%A2%20ML%20INFRASTRUCTURE%20%E2%88%86&descAlignY=72&animation=fadeIn&stroke=00d4ff&strokeWidth=1.5&fontColor=e0f7ff&descColor=7ec8e3&fontSize=44&descSize=14" width="100%" alt="Gyan Prakash — AI/ML & Backend Systems Engineer"/>
 
 <br/>
 
-![](https://img.shields.io/badge/◈──────────────%20SIGNAL%20ONLINE%20%E2%80%A2%20SYS_READY%20──────────────◈-000000?style=flat&labelColor=000000&color=00d4ff)
+![](https://img.shields.io/badge/◈──────────────%20WELCOME%20TO%20MY%20GITHUB%20──────────────◈-000000?style=flat&labelColor=000000&color=00d4ff)
 
 <br/><br/>
 
-[![Status](https://img.shields.io/badge/STATUS-DEPLOYING%20INTELLIGENT%20SYSTEMS-00d4ff?style=for-the-badge&logo=statuspage&logoColor=000000&labelColor=0d1117)]()
+[![Role](https://img.shields.io/badge/ROLE-AI%2FML%20%26%20BACKEND%20ENGINEER-00d4ff?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=0d1117)]()
 &nbsp;
-[![Focus](https://img.shields.io/badge/DIRECTIVE-AI%20AGENTS%20%26%20RUNTIME%20SECURITY-00f0ff?style=for-the-badge&logo=shield&logoColor=000000&labelColor=0d1117)]()
+[![Status](https://img.shields.io/badge/STATUS-OPEN%20FOR%20COLLABORATION-00f0ff?style=for-the-badge&logo=git&logoColor=000000&labelColor=0d1117)]()
 &nbsp;
-[![Location](https://img.shields.io/badge/LOCATION-INDIA%20%5BIST%2FUTC%2B5%3A30%5D-00c8ff?style=for-the-badge&logo=googlemaps&logoColor=000000&labelColor=0d1117)]()
+[![Location](https://img.shields.io/badge/LOCATION-BHUBANESWAR%2C%20INDIA-00c8ff?style=for-the-badge&logo=googlemaps&logoColor=000000&labelColor=0d1117)]()
 
 </div>
 
@@ -24,22 +24,21 @@
 
 <!-- ─────────────────────────── ◉ ─────────────────────────────── -->
 
-## <div align="center">◈ ── OPERATIVE DOSSIER ── ◈</div>
+## <div align="center">◈ ── ABOUT ME ── ◈</div>
 
 <div align="center">
 
 ```
 ╔════════════════════════════════════════════════════════════════════════════════╗
-║                             ▸ OPERATIVE DOSSIER ◂                              ║
+║                             ▸ GYAN PRAKASH ◂                                   ║
 ╠════════════════════════════════════════════════════════════════════════════════╣
-║  CODENAME      :  GYAN PRAKASH                                                 ║
-║  ALIAS         :  @Gyanprakash136                                              ║
-║  CLASS         :  AI Systems Architect & Core Backend Engineer                ║
-║  CORE ARSENAL  :  Autonomous Agents · MCP 2.x · FastAPI · Docker · Python      ║
-║  SPECIALTY     :  Runtime Agent Security · Multi-Agent Swarms · Zero-Trust AI  ║
-║  CREDENTIALS   :  Amazon ML Summer School '26 Scholar · Stanford ML Certified  ║
-║  AFFILIATION   :  KIIT University (EEE '27)                                    ║
-║  UPLINK        :  linktr.ee/gyanprakash09                                      ║
+║  👋  Hey there! I'm an engineer passionate about building autonomous AI        ║
+║      agents, resilient backend microservices, and reliable ML systems.        ║
+║                                                                                ║
+║  🎓  Background    :  KIIT University · Electrical & Electronics (2023 - 2027) ║
+║  💡  Focus Areas   :  AI Agents · Runtime Security · FastAPI · Docker · MCP    ║
+║  🌱  Currently     :  Building runtime guardrails & multi-agent swarms         ║
+║  🔗  Connect       :  linktr.ee/gyanprakash09 · @Gyanprakash136                ║
 ╚════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -53,7 +52,7 @@
 
 <br/>
 
-## <div align="center">◈ ── ACTIVE DIRECTIVES & QUESTS ── ◈</div>
+## <div align="center">◈ ── WHAT I DO & FOCUS ON ── ◈</div>
 
 <br/>
 
@@ -62,16 +61,16 @@
 <table>
 <tr>
 <td width="33%" align="center">
-<h3>🛡️ Agentic Security</h3>
-<p>Architecting runtime policy enforcement, SHA-256 tamper-proof audit trails, and execution interceptors for autonomous AI agents.</p>
+<h3>🤖 AI Agents & MCP</h3>
+<p>Designing multi-agent workflows, Model Context Protocol (MCP 2.x) tools, and runtime security policies for autonomous systems.</p>
 </td>
 <td width="33%" align="center">
-<h3>🧠 Multi-Agent Swarms</h3>
-<p>Designing decentralized multi-agent coordination protocols with shared state, dynamic tool routing, and strict verification loops.</p>
+<h3>⚡ Backend Architecture</h3>
+<p>Architecting modular FastAPI microservices, asynchronous task pipelines, Docker containerization, and PostgreSQL databases.</p>
 </td>
 <td width="33%" align="center">
-<h3>⚡ Resilient Backends</h3>
-<p>Building high-throughput FastAPI microservices, MCP Streamable HTTP servers, and air-gapped deterministic fallback engines.</p>
+<h3>🧠 Applied Machine Learning</h3>
+<p>Developing deep learning models (CNN/LSTM), gradient boosting pipelines (XGBoost), and deterministic validation engines.</p>
 </td>
 </tr>
 </table>
@@ -86,7 +85,7 @@
 
 <br/>
 
-## <div align="center">◈ ── FLAGSHIP WAR ROOM DEPLOYMENTS ── ◈</div>
+## <div align="center">◈ ── FEATURED PROJECTS ── ◈</div>
 
 <br/>
 
@@ -94,16 +93,15 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  🛡️  T-CLAW  ▸  RUNTIME SECURITY GATEWAY FOR AUTONOMOUS AGENTS                │
-│  Python · Model Context Protocol · Runtime Interception · Cryptography       │
+│  🛡️  T-CLAW  ▸  RUNTIME SECURITY MIDDLEWARE FOR AI AGENTS                     │
+│  Python · Model Context Protocol (MCP) · Runtime Interception · Cryptography │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  Zero-trust security middleware that intercepts agent actions prior to       │
-│  execution, enforcing strict runtime policies without altering core model    │
-│  frameworks.                                                                 │
+│  A zero-trust security middleware that intercepts agent tool calls before    │
+│  execution, enforcing strict access controls and safety policies.            │
 │                                                                              │
-│  ▸ Reverse-engineered agent execution trees to inject dynamic security hooks │
-│  ▸ Implemented allowlist access control + SHA-256 hash-chained audit logs    │
-│  ▸ Prevents unauthorized tool execution, memory poisoning & prompt injection │
+│  • Reverse-engineered agent execution flows to inject dynamic runtime hooks  │
+│  • Allowlist-based permissions + SHA-256 hash-chained tamper-proof audit log │
+│  • Protects against prompt injection, memory tampering & dangerous tool calls│
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -112,26 +110,26 @@
 │  🛰️  NETSAGE AI  ▸  HUMAN-IN-THE-LOOP NETWORK TROUBLESHOOTING ENGINE        │
 │  FastAPI · MCP 2.x · Clean Architecture · Llama 3.2 · Deterministic Rules    │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  AI diagnostic assistant for Cisco Packet Tracer labs that ingests symptoms  │
-│  and show-command telemetry to deliver evidence-backed root cause fixes.     │
+│  An AI-assisted diagnostic helper for Cisco Packet Tracer labs that analyzes │
+│  symptoms and show-command outputs to recommend evidence-backed fixes.       │
 │                                                                              │
-│  ▸ Strict Human-in-the-Loop review lifecycle (Accept / Edit / Reject audit)  │
-│  ▸ Multi-tier inference: Hugging Face Router → Local Ollama → Rule Fallback  │
-│  ▸ Integrated with NIST SP 800-53 & CIS Cisco IOS security compliance checks │
+│  • Mandatory Human-in-the-Loop review system (Accept / Edit / Reject)        │
+│  • Multi-tier inference: Hugging Face Router → Local Ollama → Rule Fallback  │
+│  • Automated NIST SP 800-53 & CIS Cisco IOS benchmark security checks        │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  📊  AUTONOMOUS DATA ANALYST  ▸  SELF-ORCHESTRATING SQL SWARM                │
+│  📊  AUTONOMOUS DATA ANALYST  ▸  MULTI-AGENT SQL & ANALYTICS SWARM           │
 │  Python · Docker · PostgreSQL · Multi-Agent Coordination · LLM Pipelines     │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  Decentralized multi-agent system translating complex natural language       │
-│  questions into validated SQL execution, statistical analytics & visual data.│
+│  A collaborative multi-agent system that turns natural language questions    │
+│  into validated SQL queries, statistical analysis, and interactive charts.   │
 │                                                                              │
-│  ▸ Engineered shared-context dependency graph between specialist agents      │
-│  ▸ Fully containerized with Docker and production PostgreSQL databases       │
-│  ▸ Self-healing query engine with automated schema reflection & validation   │
+│  • Designed a shared-context workflow between specialized query & viz agents │
+│  • Containerized architecture with live PostgreSQL integration               │
+│  • Automated schema reflection and query validation                          │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -140,24 +138,24 @@
 │  ⚖️  LEGALMIND AI  ▸  DISTRIBUTED LEGAL RAG MICROSERVICE PLATFORM            │
 │  FastAPI · Google Gemini · Microservices · Vector Search · Docker            │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  Enterprise legal document analysis engine structured across 5 decoupled     │
-│  microservices for document ingestion, auth, vector search & session states. │
+│  A legal document intelligence engine built with a 5-service decoupled       │
+│  microservice architecture for document parsing, auth, and semantic search.  │
 │                                                                              │
-│  ▸ Cross-document semantic retrieval preserving conversational query state   │
-│  ▸ Resilient inter-service communication pipeline with strict type contracts │
+│  • Conversational search across multi-page legal documents with preserved ctx│
+│  • Type-safe inter-service communication with FastAPI and Docker             │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  📈  FINDOCGPT  ▸  QUANTITATIVE HYBRID FORECASTING SYSTEM                    │
+│  📈  FINDOCGPT  ▸  QUANTITATIVE FINANCIAL FORECASTING PLATFORM               │
 │  Python · XGBoost · LSTM Deep Networks · Streamlit · Feature Engineering     │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  Quantitative financial engine uniting gradient boosted decision trees with  │
-│  LSTM recurrent neural networks for multi-variate market price prediction.   │
+│  A financial analysis engine combining XGBoost decision trees and LSTM       │
+│  neural networks for quantitative market trend forecasting.                  │
 │                                                                              │
-│  ▸ Automated real-time data ingestion, volatility filters & feature pipelines│
-│  ▸ Interactive analytical dashboard with backtested performance telemetry    │
+│  • End-to-end data preprocessing, feature engineering, and training pipeline │
+│  • Streamlit interactive dashboard with real-time prediction telemetry       │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -171,7 +169,7 @@
 
 <br/>
 
-## <div align="center">◈ ── INDUSTRY & FIELD EXPERIENCE ── ◈</div>
+## <div align="center">◈ ── ENGINEERING EXPERIENCE ── ◈</div>
 
 <br/>
 
@@ -182,12 +180,12 @@
 │  AI/ML Engineering Intern                                                    │
 │  EduSkill Foundation · Remote · Jan 2025 – Mar 2025                          │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  ▸ Developed CNN deep learning classification pipelines achieving 92%        │
-│    accuracy on 50,000+ benchmark image datasets.                             │
-│  ▸ Integrated dynamic data augmentation and L2 regularization, slashing     │
-│    validation overfitting by 23%.                                            │
-│  ▸ Executed Bayesian hyperparameter sweeps yielding +18% accuracy lift.      │
-│  ▸ Stack: TensorFlow · Keras · Python · Git · Agile Sprint Workflows          │
+│  • Developed CNN deep learning classification pipelines achieving 92%        │
+│    accuracy on 50,000+ benchmark images.                                     │
+│  • Applied dynamic data augmentation and L2 regularization to reduce         │
+│    overfitting by 23%.                                                       │
+│  • Conducted hyperparameter tuning achieving an 18% validation accuracy lift.│
+│  • Stack: TensorFlow · Keras · Python · Git · Agile Sprint Workflows          │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -201,11 +199,11 @@
 
 <br/>
 
-## <div align="center">◈ ── CYBER ARSENAL & TECH SYSTEMS ── ◈</div>
+## <div align="center">◈ ── TECH STACK & TOOLS ── ◈</div>
 
 <br/>
 
-### ⚔️ &nbsp;CORE LANGUAGES
+### ⚔️ &nbsp;LANGUAGES
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -217,7 +215,7 @@
 
 <br/>
 
-### 🧠 &nbsp;AI, AGENTS & NEURAL DYNAMICS
+### 🧠 &nbsp;AI, AGENTS & MACHINE LEARNING
 <div align="center">
 
 ![Model Context Protocol](https://img.shields.io/badge/MCP_2.x-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -234,7 +232,7 @@
 
 <br/>
 
-### ⚙️ &nbsp;BACKEND, RUNTIMES & MICROSERVICES
+### ⚙️ &nbsp;BACKEND & INFRASTRUCTURE
 <div align="center">
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -250,7 +248,7 @@
 
 <br/>
 
-### ☁️ &nbsp;CLOUD, DEVOPS & INFRASTRUCTURE
+### ☁️ &nbsp;CLOUD & DEVOPS
 <div align="center">
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -271,7 +269,7 @@
 
 <br/>
 
-## <div align="center">◈ ── SYSTEM TELEMETRY & METRICS ── ◈</div>
+## <div align="center">◈ ── GITHUB TELEMETRY & STATS ── ◈</div>
 
 <br/>
 
@@ -340,7 +338,7 @@
 
 <br/>
 
-## <div align="center">◈ ── SECURE COMMUNICATION UPLINK ── ◈</div>
+## <div align="center">◈ ── LET'S CONNECT ── ◈</div>
 
 <br/>
 
@@ -348,8 +346,8 @@
 
 ```
 ╭──────────────────────────────────────────────────────────────────────────────╮
-│              ▸ INITIALIZE DIRECT UPLINK WITH GYAN PRAKASH ◂                 │
-│      Open for AI Systems Engineering, Backend Architecture & Collaborations   │
+│                       ▸ GET IN TOUCH & COLLABORATE ◂                         │
+│            Open for AI Systems, Backend Engineering & Open Source            │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 ```
 
@@ -373,11 +371,11 @@
 
 <br/><br/>
 
-| CHANNEL | DESTINATION / PROTOCOL | STATUS |
+| CHANNEL | DESTINATION | STATUS |
 |:---|:---|:---:|
 | 💼 **LinkedIn** | [`linkedin.com/in/gyan-prakash-7bb196262`](https://linkedin.com/in/gyan-prakash-7bb196262) | 🟢 Active |
-| 📬 **Direct Email** | [`gyan.official.work0902@gmail.com`](mailto:gyan.official.work0902@gmail.com) | 🟢 Monitored |
-| 🌐 **Hub & Portfolio** | [`linktr.ee/gyanprakash09`](https://linktr.ee/gyanprakash09) | 🟢 Verified |
+| 📬 **Email** | [`gyan.official.work0902@gmail.com`](mailto:gyan.official.work0902@gmail.com) | 🟢 Monitored |
+| 🌐 **Portfolio & Links** | [`linktr.ee/gyanprakash09`](https://linktr.ee/gyanprakash09) | 🟢 Verified |
 | 💬 **GitHub Discussions** | [`@Gyanprakash136`](https://github.com/Gyanprakash136) | 🟢 Open |
 
 </div>
@@ -390,7 +388,7 @@
 
 <br/>
 
-## <div align="center">◈ ── FINAL TRANSMISSION ── ◈</div>
+## <div align="center">◈ ── SIGN-OFF ── ◈</div>
 
 <br/>
 
@@ -399,10 +397,9 @@
 ```
 ╔════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                ║
-║                      "THE SYSTEM IS NEVER FINISHED.                           ║
-║                       IT ONLY GROWS MORE RESILIENT."                          ║
+║                  "DRIVEN BY CURIOSITY. POWERED BY CODE."                       ║
 ║                                                                                ║
-║               BUILD RELENTLESSLY. CHALLENGE CONSTRAINTS.                      ║
+║               ALWAYS BUILDING, LEARNING & EXPLORING NEW SYSTEMS.               ║
 ║                                                                                ║
 ║                  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─                      ║
 ║                                                                                ║
@@ -418,7 +415,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,2,5,30&section=footer" width="100%"/>
 
 </div>
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--  END TRANSMISSION ▸ GYANPRAKASH136 ▸ AI SYSTEMS ARCHITECT       -->
-<!-- ════════════════════════════════════════════════════════════════ -->
