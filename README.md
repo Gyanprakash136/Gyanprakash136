@@ -1,22 +1,20 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TRANSMISSION INITIATED ▸ GYAN PRAKASH ▸ AI SYSTEMS ARCHITECT -->
+<!-- TRANSMISSION INITIATED ▸ GYAN PRAKASH ▸ AI/ML ENGINEER        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED HERO — starfield SVG -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=GYAN%20PRAKASH&fontAlign=50&fontAlignY=50&color=gradient&customColorList=0,2,2,5,30&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20BACKEND%20%E2%80%A2%20ROBOTICS&descAlignY=72&animation=fadeIn&stroke=00d4ff&strokeWidth=1&fontColor=e0f7ff&descColor=7ec8e3&fontSize=42" width="100%" alt="GYAN PRAKASH — AI Systems Architect"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=GYAN%20PRAKASH&fontAlign=50&fontAlignY=50&color=gradient&customColorList=0,2,2,5,30&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20BACKEND%20%E2%80%A2%20SYSTEMS&descAlignY=72&animation=fadeIn&stroke=00d4ff&strokeWidth=1&fontColor=e0f7ff&descColor=7ec8e3&fontSize=42" width="100%" alt="Gyan Prakash — AI/ML Engineer"/>
 
-<!-- TRANSMISSION BADGE -->
 <br/>
 
-![TRANSMISSION](https://img.shields.io/badge/◈──────────────%20TRANSMISSION%20ESTABLISHED%20──────────────◈-000000?style=flat&labelColor=000000&color=00d4ff&logoColor=00d4ff)
+![](https://img.shields.io/badge/◈──────────────%20SIGNAL%20ACQUIRED%20──────────────◈-000000?style=flat&labelColor=000000&color=00d4ff)
 
 </div>
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ─────────────────────────── ◉ ─────────────────────────────── -->
 
 ## <div align="center">◈ ── IDENTITY PROFILE ── ◈</div>
 
@@ -26,23 +24,21 @@
 ╔══════════════════════════════════════════════════════════╗
 ║                    ▸ IDENTITY PROFILE ◂                  ║
 ╠══════════════════════════════════════════════════════════╣
-║  DESIGNATION  :  GYAN PRAKASH                           ║
+║  NAME         :  GYAN PRAKASH                           ║
 ║  HANDLE       :  @Gyanprakash136                        ║
-║  SPECIALTY    :  ARTIFICIAL INTELLIGENCE & SYSTEMS      ║
-║  DIRECTIVE    :  AI · MACHINE LEARNING · ROBOTICS       ║
-║  PROTOCOL     :  SEEKING COLLABORATION                  ║
-║  VECTOR       :  PYTHON · MACHINE LEARNING · DSA        ║
+║  ROLE         :  AI/ML Engineer (Student)               ║
+║  FOCUS        :  Backend Systems · AI Agents · MLOps    ║
+║  INSTITUTION  :  KIIT University · EEE · 2027           ║
+║  CGPA         :  8.82 / 10.0                            ║
 ║  SIGNAL       :  linktr.ee/gyanprakash09                ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<br/>
-
 <div align="center">
 
-> *Building intelligent systems at the intersection of AI, robotics, and backend engineering.*
+> *Engineering student building backend systems, AI agents, and reliable ML infrastructure.*
 
 </div>
 
@@ -54,15 +50,126 @@
 
 <br/>
 
-## <div align="center">◈ ── ACTIVE DIRECTIVES ── ◈</div>
+## <div align="center">◈ ── EXPERIENCE ── ◈</div>
+
+<br/>
 
 <div align="center">
 
-| DIRECTIVE | STATUS |
-|:---:|:---:|
-| `Studying Machine Learning & DSA` | 🟢 ACTIVE |
-| `Exploring AI × Robotics systems` | 🟢 ACTIVE |
-| `Open to Python & ML collaboration` | 🟡 STANDBY |
+```
+┌─────────────────────────────────────────────────────────┐
+│  AI/ML Engineering Intern                               │
+│  EduSkill Foundation · Remote · Jan 2025 – Mar 2025     │
+├─────────────────────────────────────────────────────────┤
+│  · CNN image classification — 92% accuracy on 50K imgs  │
+│  · Data augmentation + L2 regularization → -23% overfit │
+│  · Hyperparameter tuning → +18% validation accuracy     │
+│  · Stack: TensorFlow · Keras · Git · Agile              │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────── ◉ ─────────────────────────────── -->
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,2,5,30&section=header" width="100%"/></div>
+
+<br/>
+
+## <div align="center">◈ ── PROJECTS ── ◈</div>
+
+<br/>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  T-CLAW                                                 │
+│  Secure Middleware for OpenClaw                         │
+│  Python · Runtime Security · MCP                        │
+├─────────────────────────────────────────────────────────┤
+│  Middleware layer that inspects agent requests before   │
+│  execution and enforces runtime security policies       │
+│  without modifying the core framework.                  │
+│                                                         │
+│  · Reverse-engineered OpenClaw's execution flow and     │
+│    inserted custom runtime hooks                        │
+│  · Allowlist-based access control + SHA-256             │
+│    hash-chained audit logs to detect tampering          │
+│  · Validated with Telegram-based agents                 │
+└─────────────────────────────────────────────────────────┘
+```
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  AI AUTONOMOUS DATA ANALYST                             │
+│  Python · Docker · PostgreSQL · LLM                     │
+├─────────────────────────────────────────────────────────┤
+│  Multi-agent system that converts natural language      │
+│  questions into SQL queries, visualizations, and        │
+│  business insights.                                     │
+│                                                         │
+│  · Designed multi-agent workflow with shared context    │
+│    and task dependency management                       │
+│  · Containerized with Docker + PostgreSQL integration   │
+└─────────────────────────────────────────────────────────┘
+```
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  LEGALMIND AI                                           │
+│  FastAPI · Gemini · Docker · Microservices              │
+├─────────────────────────────────────────────────────────┤
+│  Legal document analysis platform using a 5-service    │
+│  microservice architecture.                             │
+│                                                         │
+│  · Services for ingestion, auth, session management,   │
+│    and inter-service communication                      │
+│  · Conversational search across multiple documents      │
+│    with preserved query context                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  FINDOCGPT                                              │
+│  Python · XGBoost · LSTM · Streamlit                   │
+├─────────────────────────────────────────────────────────┤
+│  Financial analysis platform combining XGBoost and     │
+│  LSTM models for stock price forecasting.               │
+│                                                         │
+│  · Automated data collection, preprocessing, feature   │
+│    engineering, and model training pipeline             │
+│  · Streamlit dashboard for predictions and model perf   │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────── ◉ ─────────────────────────────── -->
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,2,5,30&section=header" width="100%"/></div>
+
+<br/>
+
+## <div align="center">◈ ── ACHIEVEMENTS ── ◈</div>
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | ACHIEVEMENT |
+|:---:|:---|
+| 🏆 | Selected — Amazon ML Summer School 2026 |
+| 🥇 | TCS CodeVita Season 13 — Global Rank 7893 |
+| 🎓 | Machine Learning Specialization — Stanford & DeepLearning.AI (Coursera) |
+| 🏅 | Top 30 Finalist — CodeSprint 2.0 (USC KIIT × UiPath) |
+| 📊 | IISER Aptitude Test — All India Rank 6543 among 100K+ candidates |
+| ✅ | Python Programming (Basic) — HackerRank |
 
 </div>
 
@@ -85,12 +192,13 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 <br/>
 
-### 🧠 &nbsp;AI · MACHINE LEARNING · DATA
+### 🧠 &nbsp;AI · MACHINE LEARNING
 
 <div align="center">
 
@@ -98,12 +206,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
 </div>
 
@@ -115,9 +223,10 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -127,8 +236,8 @@
 
 <div align="center">
 
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
@@ -136,24 +245,26 @@
 
 <br/>
 
-### 🗄️ &nbsp;DATABASE SYSTEMS
+### 🗄️ &nbsp;DATABASES
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
 <br/>
 
-### 🔧 &nbsp;DEVELOPMENT TOOLS
+### 🔧 &nbsp;DEVELOPER TOOLS
 
 <div align="center">
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 </div>
@@ -203,7 +314,7 @@
 
 <br/>
 
-## <div align="center">◈ ── HOLOCRON · TROPHIES ── ◈</div>
+## <div align="center">◈ ── TROPHIES ── ◈</div>
 
 <div align="center">
 
@@ -245,7 +356,7 @@
 
 <br/>
 
-## <div align="center">◈ ── GALACTIC COMMUNICATION ── ◈</div>
+## <div align="center">◈ ── COMMUNICATION CHANNELS ── ◈</div>
 
 <br/>
 
@@ -259,9 +370,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gyan-prakash-7bb196262)
 &nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-TRANSMIT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyan.official.work0902@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-WRITE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyan.official.work0902@gmail.com)
 &nbsp;
-[![Linktree](https://img.shields.io/badge/LINKTREE-NETWORK-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gyanprakash09)
+[![Linktree](https://img.shields.io/badge/LINKTREE-EXPLORE-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gyanprakash09)
 
 </div>
 
@@ -302,5 +413,6 @@
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  END TRANSMISSION ▸ GYANPRAKASH136 ▸ AI SYSTEMS ARCHITECT      -->
+<!--  END TRANSMISSION ▸ GYANPRAKASH136 ▸ AI/ML ENGINEER            -->
 <!-- ════════════════════════════════════════════════════════════════ -->
+ENDOFFILE
