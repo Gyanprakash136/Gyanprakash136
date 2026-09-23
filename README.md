@@ -259,10 +259,10 @@ to the galaxy of software....
 │              REBEL ALLIANCE — SECURE TRANSMISSION               │
 │           Accepting: AI Systems · Backend · Open Source         │
 ├──────────────┬──────────────────────────────────────────────────┤
-│  LinkedIn    │  linkedin.com/in/gyan-prakash-7bb196262         │
-│  Email       │  gyan.official.work0902@gmail.com               │
-│  Portfolio   │  linktr.ee/gyanprakash09                        │
-│  GitHub      │  @Gyanprakash136                                │
+│  LinkedIn    │  linkedin.com/in/gyan-prakash-7bb196262          │
+│  Email       │  gyan.official.work0902@gmail.com                │
+│  Portfolio   │  https://www.gyanprakash.dev/                    │
+│  GitHub      │  @Gyanprakash136                                 │
 └──────────────┴──────────────────────────────────────────────────┘
 ```
 
@@ -272,9 +272,14 @@ to the galaxy of software....
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:gyan.official.work0902@gmail.com)
 &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFE81F?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=0d1117)](https://www.gyanprakash.dev/)
+&nbsp;
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1117)](https://linktr.ee/gyanprakash09)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Gyanprakash136)
+
+</div>
+
 
 </div>
 
