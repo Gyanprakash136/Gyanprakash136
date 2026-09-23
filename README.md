@@ -118,10 +118,10 @@ to the galaxy of software....
     │  AI AGENTS   │  │   BACKEND    │  │     ML       │
     │  & MCP 2.x   │  │ ARCHITECTURE │  │  SYSTEMS     │
     └──────────────┘  └──────────────┘  └──────────────┘
-    Multi-agent       FastAPI micro-     CNN/LSTM deep
-    workflows,        services, async    networks,
+    Multi-agent       FastAPI micro-     CNN/LSTM, deep
+    workflows,        services, async    learning,Multi-modal
     runtime           pipelines,         XGBoost,
-    security          Docker, PostgreSQL  feature pipelines
+    security,          Docker, PostgreSQL  Data pipelines
 ```
 
 <br/>
@@ -244,6 +244,7 @@ to the galaxy of software....
 
 ---
 
+
 ## `> TELEMETRY FEED`
 
 <div align="center">
@@ -252,26 +253,23 @@ to the galaxy of software....
 <tr>
 <td align="center" width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gyanprakash136&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9&icon_color=4fc3f7)
+<img src="https://github-readme-stats.vercel.app/api?username=Gyanprakash136&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9&icon_color=4fc3f7" />
 
 </td>
+
 <td align="center" width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanprakash136&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanprakash136&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9" />
 
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
-<div align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gyanprakash136&theme=dark&hide_border=true&background=0d1117&ring=ffe81f&fire=4fc3f7&currStreakLabel=ffe81f&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=e0f7ff&sideNums=e0f7ff)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Gyanprakash136&theme=dark&hide_border=true&background=0d1117&ring=ffe81f&fire=4fc3f7&currStreakLabel=ffe81f&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=e0f7ff&sideNums=e0f7ff" />
 
 </div>
-
-<br/>
 
 ---
 
