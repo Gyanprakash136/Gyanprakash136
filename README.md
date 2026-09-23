@@ -244,29 +244,8 @@ to the galaxy of software....
 
 ---
 ## `> TELEMETRY FEED`
-## `> TELEMETRY FEED`
 
 <div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gyanprakash136&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9&icon_color=4fc3f7" />
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gyanprakash136&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9" />
-
-</td>
-
-</tr>
-</table>
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gyanprakash136&theme=dark&hide_border=true&background=0d1117&ring=ffe81f&fire=4fc3f7&currStreakLabel=ffe81f&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=e0f7ff&sideNums=e0f7ff" />
 
