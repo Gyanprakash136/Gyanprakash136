@@ -292,6 +292,4 @@ to the galaxy of software....
     ════════════════════════════════════════════════════
 ```
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Gyanprakash136&icon=6&color=6)](https://visitcount.itsvg.in)
-
 </div>
