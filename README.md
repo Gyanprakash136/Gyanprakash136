@@ -89,12 +89,12 @@ to the galaxy of software....
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │  CALLSIGN  ──  GYAN PRAKASH                                     │
-│  SQUADRON  ──  KIIT University, Electrical & Electronics        │
-│  RANK      ──  Junior Officer (Graduating: May 2027)            │
-│  GUNNERY   ──  8.82 / 10.0  CGPA                                │
-│  THEATRE   ──  AI Agents · Backend Systems · ML Infrastructure  │
+│  SQUADRON  ──  Megatron                                         |
+│  RANK      ──  Junior Officer                                   |
+│  GUNNERY   ──  still grinding                                   │
+│  THEATRE   ──  AI/ML · Backend Dev · ML Infrastructure          │
 │  CURRENT   ──  Building runtime guardrails & multi-agent swarms │
-│  COMMS     ──  linktr.ee/gyanprakash09                          │
+│  COMMS     ──  https://www.gyanprakash.dev/                     │
 │                                                                 │
 │  STATUS    ──  [■■■■■■■■░░]  OPEN FOR MISSIONS                  │
 │                                                                 │
