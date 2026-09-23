@@ -245,6 +245,7 @@ to the galaxy of software....
 ---
 
 
+
 ## `> TELEMETRY FEED`
 
 <div align="center">
@@ -267,10 +268,9 @@ to the galaxy of software....
 
 <br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Gyanprakash136&theme=dark&hide_border=true&background=0d1117&ring=ffe81f&fire=4fc3f7&currStreakLabel=ffe81f&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=e0f7ff&sideNums=e0f7ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gyanprakash136&theme=dark&hide_border=true&background=0d1117&ring=ffe81f&fire=4fc3f7&currStreakLabel=ffe81f&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=e0f7ff&sideNums=e0f7ff" />
 
 </div>
-
 ---
 
 ## `> OPEN COMMS CHANNEL`
