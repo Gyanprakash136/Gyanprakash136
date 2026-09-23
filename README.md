@@ -243,9 +243,6 @@ to the galaxy of software....
 <br/>
 
 ---
-
-
-
 ## `> TELEMETRY FEED`
 
 <div align="center">
