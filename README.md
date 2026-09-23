@@ -212,28 +212,6 @@ to the galaxy of software....
 
 <br/>
 
----
-
-## `> FIELD SERVICE RECORD`
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  AI/ML Engineering Intern — EduSkill Foundation · Jan–Mar 2025  │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  ▸  CNN pipelines → 92% accuracy on 50,000+ benchmark images   │
-│  ▸  Dynamic augmentation + L2 regularisation → -23% overfit    │
-│  ▸  Hyperparameter tuning → +18% validation accuracy           │
-│                                                                 │
-│  STACK  ──  TensorFlow · Keras · Python · Git · Agile Sprints  │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
 ## `> WEAPONS LOCKER`
 
 ```
