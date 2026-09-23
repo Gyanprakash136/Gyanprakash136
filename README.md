@@ -244,22 +244,25 @@ to the galaxy of software....
 
 ---
 ## `> TELEMETRY FEED`
+## `> TELEMETRY FEED`
 
 <div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gyanprakash136&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9&icon_color=4fc3f7" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gyanprakash136&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9&icon_color=4fc3f7" />
 
 </td>
 
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanprakash136&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gyanprakash136&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9" />
 
 </td>
+
 </tr>
 </table>
 
