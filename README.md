@@ -209,7 +209,7 @@ to the galaxy of software....
 
   OUTCOME    ──  [SUCCESS] The oracle speaks in credits.
 ```
-**`[MANY MORE MISSION IN THE BUILT]........................`
+**`[MANY MORE MISSION IN THE BUILT]........................`**
 <br/>
 
 ## `> WEAPONS LOCKER`
